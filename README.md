@@ -5,4 +5,4 @@ Currently using Regex to do the math, but when I'm free will use a parser combin
 Hopefully that will be soon.
 
 ### UI
-![Screenshot_1626497022](https://user-images.githubusercontent.com/22247592/126025882-ffe474ea-b5b3-4d1d-96c9-b5935c94863f.png)
+<img src="https://user-images.githubusercontent.com/22247592/126025882-ffe474ea-b5b3-4d1d-96c9-b5935c94863f.png" alt="drawing" width="250"/>
